@@ -1,5 +1,5 @@
 {
-  "name": "worker-name",
+  "name": "compa",
   "compatibility_date": "2025-05-01",
   "assets": {
     "directory": "./"  // Points to the root directory where index.html is located
